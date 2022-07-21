@@ -10,8 +10,13 @@ public class collage {
 		}
 	public void collageRank() {
 		System.out.println("collageRank is 1");
+		
 			
 		}
+	private void newBranch() {
+		System.out.println("new branch name is dharmendra");
+
+	}
 	}
 
 
